@@ -1,7 +1,0 @@
-{
-  "name": "hotel-management-system",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {"dev": "concurrently \"python backend/manage.py runserver 4000\" \"npm run dev --prefix client\"", "install:all": "python -m pip install -r backend/requirements.txt && npm install && npm install --prefix client", "seed": "python backend/manage.py seed_demo --yes"},
-  "devDependencies": {"concurrently": "^9.2.1"}
-}
