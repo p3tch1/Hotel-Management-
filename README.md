@@ -1,2 +1,2 @@
-# Hotel-Management-
+# Hotel-Management
 DATABASE SYSTEM PROJECT
